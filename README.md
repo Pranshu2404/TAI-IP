@@ -1,4 +1,4 @@
-# disco_flash
+# torch_flash
 
 A new Flutter project.
 
